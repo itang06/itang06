@@ -1,4 +1,4 @@
-## Hi, my name is Ian! new branch👋
+## Welcome, my name is Ian! 👋
 
 <!--
 **itang06/itang06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
