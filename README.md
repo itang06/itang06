@@ -1,4 +1,7 @@
-## Hi, my name is Ian! 👋
+## Hi!👋🏻
+My name is Ian Tang and I'm studying Computer Science + Business at UBC.
+
+Get in touch at my LinkedIn (https://www.linkedin.com/in/iantang004) or at my Email (iantang@hotmail.ca)
 
 <!--
 **itang06/itang06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
