@@ -1,4 +1,4 @@
-## Hi!👋🏻
+## Hi! 👋🏻
 My name is Ian Tang and I'm studying Computer Science + Business at UBC.
 
 Get in touch at my LinkedIn (https://www.linkedin.com/in/iantang004) or at my Email (iantang@hotmail.ca)
